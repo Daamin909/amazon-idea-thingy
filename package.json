@@ -1,0 +1,34 @@
+{
+  "name": "amazon-idea-thingy",
+  "version": "1.0.0",
+  "description": "an idea I got while talking to amazon customer care",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daamin909/amazon-idea-thingy.git"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "customer-care",
+    "customer",
+    "care",
+    "translation"
+  ],
+  "author": "Daamin Ashai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daamin909/amazon-idea-thingy/issues"
+  },
+  "homepage": "https://github.com/Daamin909/amazon-idea-thingy#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "eslint": "^9.38.0",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
